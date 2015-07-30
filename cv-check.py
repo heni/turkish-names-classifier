@@ -65,6 +65,7 @@ def CalcErrRate(model, data):
             if tp in item["gender"]:
                 goodPredictions += 1
             allPredictions += 1
+    print goodPredictions, allPredictions, goodPredictions * 1. / allPredictions, len(data)
     return 1 - goodPredictions * 1. / allPredictions
 
 
@@ -83,7 +84,7 @@ if __name__ == "__main__":
     trainFn = LangModelClassifierHelpers.Train if opts.model == "langmodel" else SimpleClassifierHelpers.Train
     errRates = []
     for _ in xrange(100):
-        learn, test = Split(allData, 0.1, _)
+        learn, test = Split(allData, 0.1, random.randint(1, 2**64))
         model = trainFn(learn, opts)
         errRates.append(CalcErrRate(model, test))
     eM, eS = GetMeanAndVariance(errRates)
