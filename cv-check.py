@@ -1,6 +1,7 @@
 #!/usr/bin/env python2.7
 #-*- coding: utf-8 -*-
 import argparse
+import collections
 import json
 import math
 import random
@@ -16,6 +17,7 @@ def parse_args():
     parser.add_argument("--input-data", dest="input_data", default="data/turk-names.js.gz", help="json file with source data")
     parser.add_argument("--depth", dest="depth", type=int, default=3, help="depth for trained language models")
     parser.add_argument("--random-coeff", dest="random_coeff", type=float, default=.5, help="threshold for random classifier")
+    parser.add_argument("--json-output", dest="json_output", action="store_true", help="echo results as json")
     return parser.parse_args()
 
 
@@ -103,7 +105,18 @@ if __name__ == "__main__":
         mnF1, wmF1 = CalcFMeasures(model, test)
         mnF1List.append(mnF1)
         wmF1List.append(wmF1)
-    eM, eS = GetMeanAndVariance(mnF1List)
-    print "F1(man):   {0:.4f}±{1:.4f}".format(eM, 3 * math.sqrt(eS/len(mnF1List)))
-    eM, eS = GetMeanAndVariance(wmF1List)
-    print "F1(woman): {0:.4f}±{1:.4f}".format(eM, 3 * math.sqrt(eS/len(wmF1List)))
+    mnF1eM, mnF1eS = GetMeanAndVariance(mnF1List)
+    wmF1eM, wmF1eS = GetMeanAndVariance(wmF1List)
+    if opts.json_output:
+        print json.dumps(collections.OrderedDict([
+                ("man-F1", mnF1eM),
+                ("man-F1-std", 3 * math.sqrt(mnF1eS/len(mnF1List))),
+                ("woman-F1", wmF1eM),
+                ("woman-F1-std", 3 * math.sqrt(wmF1eS/len(wmF1List))),
+                ("min-F1", min(mnF1eM, wmF1eM)),
+                ("avg-F1", (mnF1eM + wmF1eM) / 2.),
+            ]), indent=4
+        )
+    else:
+        print "F1(man):   {0:.4f}±{1:.4f}".format(mnF1eM, 3 * math.sqrt(mnF1eS/len(mnF1List)))
+        print "F1(woman): {0:.4f}±{1:.4f}".format(wmF1eM, 3 * math.sqrt(wmF1eS/len(wmF1List)))
