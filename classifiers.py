@@ -5,7 +5,7 @@ from langmodel import LangModel
 
 class IGenderClassifier(object):
     WOMAN_MARKER = "Ka"
-    MAN_MAKER = "Er"
+    MAN_MARKER = "Er"
 
     def __init__(self):
         pass
@@ -33,7 +33,7 @@ class LangModelsGenderClassifier(IGenderClassifier):
         mnProb = self.MnModel.GetLogProbability(name)
         wmProb = self.WmModel.GetLogProbability(name)
         if mnProb > wmProb:
-            return self.MAN_MAKER, {"mn-prob": mnProb, "wm-prob": wmProb}
+            return self.MAN_MARKER, {"mn-prob": mnProb, "wm-prob": wmProb}
         else:
             return self.WOMAN_MARKER, {"mn-prob": mnProb, "wm-prob": wmProb}
 
@@ -41,7 +41,7 @@ class LangModelsGenderClassifier(IGenderClassifier):
 class ConstGenderClassifier(IGenderClassifier):
 
     def __init__(self, mark):
-        if mark not in (self.WOMAN_MARKER, self.MAN_MAKER):
+        if mark not in (self.WOMAN_MARKER, self.MAN_MARKER):
             raise AttributeError("incorrect marker for ConstGenderClassifier")
         self.Marker = mark
         super(ConstGenderClassifier, self).__init__()
@@ -60,6 +60,6 @@ class RandomGenderClassifier(IGenderClassifier):
     def ClassifyAux(self, name):
         value = struct.unpack("QQ", hashlib.md5(name.encode("utf-8")).digest())[0] / self.BASE
         if value < self.MnTreshold:
-            return self.MAN_MAKER, {"value": value}
+            return self.MAN_MARKER, {"value": value}
         else:
             return self.WOMAN_MARKER, {"value": value}
