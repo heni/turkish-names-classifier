@@ -53,8 +53,8 @@ class ConstGenderClassifier(IGenderClassifier):
 class RandomGenderClassifier(IGenderClassifier):
     BASE = 2. ** 64
 
-    def __init__(self):
-        self.MnTreshold = .5
+    def __init__(self, threshold = .5):
+        self.MnTreshold = threshold
         super(RandomGenderClassifier, self).__init__()
 
     def ClassifyAux(self, name):
