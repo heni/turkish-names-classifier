@@ -2,9 +2,10 @@
 # -*- coding: utf-8 -*-
 import re
 import icu
-import gzip
 import json
 import collections
+
+from utils import OpenFile
 
 def LoadData(filename):
     TurLocale = icu.Locale('tr')
@@ -32,6 +33,6 @@ def LoadData(filename):
 
 if __name__ == "__main__":
     data = list(LoadData("data/turk-names.txt"))
-    with gzip.open("data/turk-names.js.gz", "w") as names_prn:
+    with OpenFile("data/turk-names.js.gz", "w") as names_prn:
         names_prn.write(json.dumps(data, indent=2, ensure_ascii=False).encode("utf-8"))
 
