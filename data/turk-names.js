@@ -28933,7 +28933,7 @@
     "description": "1. İrtiza edilmiş, beğenilmiş seçilmiş. Güzide. 2. Allah'ın razı olduğu kişi, kendisinden razı olunan kişi. - Aliyyü'l-Murtaza: Hz. Ali'nin lakabı."
   }, 
   {
-    "name": "mus´ab", 
+    "name": "mus'ab", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -42050,7 +42050,7 @@
     "description": " Gönül rahatı."
   }, 
   {
-    "name": "sem´an", 
+    "name": "sem'an", 
     "type": "Ar.", 
     "gender": [
       "Er"

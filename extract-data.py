@@ -19,7 +19,7 @@ def LoadData(filename):
                 sRes = reFormat.match(ln)
                 name, nameTp, nameOpts, desc = sRes.groups()
                 name = unicode(icu.UnicodeString(name).toLower(TurLocale)).strip()
-                name = name.replace(u"â", u"a").replace(u"û", u"u").replace(u"î", "i")
+                name = name.replace(u"â", u"a").replace(u"û", u"u").replace(u"î", "i").replace(u"´", u"'")
                 nameOpts = set(opt.strip() for opt in reOptsDelim.split(nameOpts) if opt.strip())
                 if reUnisex.search(desc):
                     nameOpts.add(u'Er')
