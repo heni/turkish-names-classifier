@@ -13,7 +13,7 @@ from utils import FMeasureCalculator, OpenFile
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--model", dest="model", choices=("langmodel", "man", "woman", "random"), default="langmodel")
+    parser.add_argument("--model", dest="model", choices=("langmodel", "bagging.votes", "bagging.weights", "man", "woman", "random"), default="langmodel")
     parser.add_argument("--input-data", dest="input_data", default="data/turk-names.js.gz", help="json file with source data")
     parser.add_argument("--depth", dest="depth", type=int, default=3, help="depth for trained language models")
     parser.add_argument("--random-coeff", dest="random_coeff", type=float, default=.5, help="threshold for random classifier")
@@ -46,6 +46,52 @@ class LangModelClassifierHelpers(object):
         mnModel.OptimizeModel()
         wmModel.OptimizeModel()
         return LangModelsGenderClassifier(mnModel, wmModel)
+
+
+class BaggingLMClassifier(IGenderClassifier):
+
+    def __init__(self, nModels, depth, mode="votes"):
+        self.NModels = nModels
+        self.Depth = depth
+        self.Models = []
+        self.Mode = mode
+        assert self.Mode in ("votes", "weights")
+
+    def Train(self, trainSet):
+        trainSet = list(trainSet)
+        nItems = len(trainSet)
+        for _ in xrange(self.NModels):
+            mnModel, wmModel = LangModel(self.Depth), LangModel(self.Depth)
+            for _ in xrange(nItems):
+                nmInfo = trainSet[random.randint(0, nItems - 1)]
+                name = nmInfo["name"]
+                genders = set(nmInfo["gender"])
+                if IGenderClassifier.MAN_MARKER in genders:
+                    mnModel.AddWord(name)
+                if IGenderClassifier.WOMAN_MARKER in genders:
+                    wmModel.AddWord(name)
+            mnModel.OptimizeModel()
+            wmModel.OptimizeModel()
+            self.Models.append((mnModel, wmModel))
+
+    def ClassifyAux(self, name):
+        if self.Mode == "votes":
+            mnProb = sum(mnModel.GetLogProbability(name) for mnModel, wmModel in self.Models) / self.NModels
+            wmProb = sum(wmModel.GetLogProbability(name) for mnModel, wmModel in self.Models) / self.NModels
+        else: #self.Mode == "weights"
+            mnVotes = [mnModel.GetLogProbability(name) > wmModel.GetLogProbability(name) for mnModel, wmModel in self.Models]
+            mnProb = len(filter(None, mnVotes)) * 1.0 / self.NModels
+            wmProb = 1.0 - mnProb
+        return (self.MAN_MARKER if mnProb > wmProb else self.WOMAN_MARKER), \
+            {"mn-prob": mnProb, "wm-prob": wmProb}
+
+
+class BaggingLMHelpers(object):
+    @staticmethod
+    def Train(trainSet, opts):
+        classifier = BaggingLMClassifier(11, opts.depth, mode = opts.model.split(".")[1])
+        classifier.Train(trainSet)
+        return classifier
 
 
 class SimpleClassifierHelpers(object):
@@ -97,7 +143,9 @@ def GetMeanAndVariance(data):
 if __name__ == "__main__":
     opts = parse_args()
     allData = json.load(OpenFile(opts.input_data))
-    trainFn = LangModelClassifierHelpers.Train if opts.model == "langmodel" else SimpleClassifierHelpers.Train
+    trainFn = LangModelClassifierHelpers.Train if opts.model == "langmodel" \
+        else BaggingLMHelpers.Train if opts.model.startswith("bagging") \
+        else SimpleClassifierHelpers.Train
     mnF1List, wmF1List = [], []
     for _ in xrange(100):
         learn, test = Split(allData, 0.1, random.randint(1, 2**64))
