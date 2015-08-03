@@ -1,6 +1,6 @@
 [
   {
-    "name": "âbad", 
+    "name": "abad", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -8,7 +8,7 @@
     "description": "1. Şen, bayındır. 2. (Ar.) Sonsuz gelecek zamanlar."
   }, 
   {
-    "name": "abadî", 
+    "name": "abadi", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -76,7 +76,7 @@
     "description": " Köle, hizmetçi, itaat edici. Kul. Sonuna Allah'ın isimleri getirilince bazı isimler meydana gelir. Abdullah, Abdurrahim, Abdulmelik gibi."
   }, 
   {
-    "name": "âbdar", 
+    "name": "abdar", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -1424,7 +1424,7 @@
     "description": " 1. Kardeşçe, dostça. Kardeş gibi."
   }, 
   {
-    "name": "ahbarî", 
+    "name": "ahbari", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -3659,7 +3659,7 @@
     "description": "1. Sütun, direk, ko­lon. 2. Mersingiller, mersin ağacı tü­ründen ağaçlar. 3. İsyan eden, itaatsiz, başkaldıran, serkeş, bagi. 4. Allah'ın emirlerini yerine getirmeyen, günahkar. 5. Haydut, şaki. -Bu isim Rasulullah tarafından yasaklanmıştır. İçer­diği anlam İslami anlayışa terstir."
   }, 
   {
-    "name": "âsiye", 
+    "name": "asiye", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -3675,7 +3675,7 @@
     "description": "1. Ordu, ordu ör­gülüyle ilgili. Vazife yapan. 2. Ülke savunmasında istihdam edilmek üzere eğitilip donatılan kimse. 3. Rütbesiz asker, er."
   }, 
   {
-    "name": "askerî", 
+    "name": "askeri", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -8317,7 +8317,7 @@
     "description": "1. Dışarı. 2. Dış harici. 3. Osmanlı Devleti'nde saray dışında vazifeli memurlar."
   }, 
   {
-    "name": "birûnî", 
+    "name": "biruni", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -11181,7 +11181,7 @@
     "description": " Başkan, lider."
   }, 
   {
-    "name": "darimî", 
+    "name": "darimi", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -16048,7 +16048,7 @@
     "description": "1. Haklıyı-haksızı ayırmakta güçlü olan. 2. Doğruyu yanlıştan ayıran. 3. Keskin. - Hz. Ömer'in lakabı; haklıyı haksızdan ayırederek adaleti tam yerine getirmekte ün kazandığı için \"Faruk\" kelimesiyle adlandırılmıştır."
   }, 
   {
-    "name": "farûki", 
+    "name": "faruki", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -16080,7 +16080,7 @@
     "description": "1. Zeki, anlayışlı. 2. Zihni açık, kavrayışlı. Uyanık."
   }, 
   {
-    "name": "fatîne", 
+    "name": "fatine", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -16200,7 +16200,7 @@
     "description": "1. Canını esirgemeyen, mühim bir maksat uğrunda canını vermeye hazır bulunan. 2. Allah yoluna başkoymuş."
   }, 
   {
-    "name": "fedakâr", 
+    "name": "fedakar", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -19189,7 +19189,7 @@
     "description": "1. Haşmetli, gösterişli, muhteşem. 2. Kuru ekmek kırıntısı doğrayan. - Ezen, kıran, yaran, parçalayan. - Ben-i Haşim Hz. Peygamber'in (s.a.s) soyu."
   }, 
   {
-    "name": "haşimî", 
+    "name": "haşimi", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -19560,7 +19560,7 @@
     "description": " Hazmeden, hazimli, ihtiyatlı, akıllı, işinde gözü açık, sağlam olan."
   }, 
   {
-    "name": "hâzim", 
+    "name": "hazim", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -19568,7 +19568,7 @@
     "description": " Zafer kazanan, galip, hazimete uğratan."
   }, 
   {
-    "name": "hâzime", 
+    "name": "hazime", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -19616,7 +19616,7 @@
     "description": "1. Terketmek. 2. Allah ilminde, Allah'ın insanı lütuf ve nusretinden mahrum etmesi. İsim olarak kullanılmaması daha uygundur."
   }, 
   {
-    "name": "hazrâ", 
+    "name": "hazra", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -19672,7 +19672,7 @@
     "description": " 1. İnsan hastalıklarının teşhis ve tedavisi ile uğraşan kimse, doktor. 2. Hikmet sahibi kişi, filozof."
   }, 
   {
-    "name": "hennâ", 
+    "name": "henna", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -19720,7 +19720,7 @@
     "description": "1. Güzel kadın. 2. Hanım, kadın."
   }, 
   {
-    "name": "heybân", 
+    "name": "heyban", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -19736,7 +19736,7 @@
     "description": "1. İnsanlarda korku ile birlikte saygı uyandıran görünüş. 2. Karizma, doğal etkileyiş."
   }, 
   {
-    "name": "hezâr", 
+    "name": "hezar", 
     "type": "Fars.", 
     "gender": [
       "Ka", 
@@ -19745,7 +19745,7 @@
     "description": "1. Bülbül. 2. Çok, pek çok. 3. Bin. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "hezâre", 
+    "name": "hezare", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -19971,7 +19971,7 @@
     "description": "1. Ancak Allah'ın bileceği iş. 2. Allah'ın hikmeti."
   }, 
   {
-    "name": "hilâ", 
+    "name": "hila", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -19979,7 +19979,7 @@
     "description": " Hükümdarın taltif etmek istediği kimseye verdiği kıymetli elbise. Hil'at."
   }, 
   {
-    "name": "hilâl", 
+    "name": "hilal", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -20124,7 +20124,7 @@
     "description": " Ayağı uğurlu."
   }, 
   {
-    "name": "hoşnevâ", 
+    "name": "hoşneva", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -20638,7 +20638,7 @@
     "description": " Berberi kabilesinin en önemlilerinden birinin adı."
   }, 
   {
-    "name": "hüveydâ", 
+    "name": "hüveyda", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -21044,7 +21044,7 @@
     "description": "1. Lazım gelme, gerçek. 2. Bir sözleşme için ilk söylenen söz. 3. Olumlama, olumlu hale gelme."
   }, 
   {
-    "name": "icâbet", 
+    "name": "icabet", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -21052,7 +21052,7 @@
     "description": "1. Kabul etme, kabul edilme. 2. Razı olma, uyma."
   }, 
   {
-    "name": "icâbi", 
+    "name": "icabi", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -21068,7 +21068,7 @@
     "description": "1. Hükümdar veziri vekili. 2. Atmaca."
   }, 
   {
-    "name": "iclâl", 
+    "name": "iclal", 
     "type": "Ar.", 
     "gender": [
       "Ka", 
@@ -21085,7 +21085,7 @@
     "description": " Dağınık şeyleri toplama, biraraya getirme."
   }, 
   {
-    "name": "icmâl", 
+    "name": "icmal", 
     "type": "Ar.", 
     "gender": [
       "Ka", 
@@ -21144,7 +21144,7 @@
     "description": "1. Kır hayatını konu edinen yazı veya şiir, aşk hakkında. 2. Küçük ve şairane resim. 3. İçten ve saf aşk."
   }, 
   {
-    "name": "idlâl", 
+    "name": "idlal", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -21224,7 +21224,7 @@
     "description": "1. Halis, temiz doğru sevgi. 2. Gönülden gelen dostluk, samimiyet, doğruluk, bağlılık. 3. Kur'an-ı Kerim'in 112. suresinin adı."
   }, 
   {
-    "name": "ihmirâr", 
+    "name": "ihmirar", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -21289,7 +21289,7 @@
     "description": " Sağlam biliş, bilme. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "ikbâl", 
+    "name": "ikbal", 
     "type": "Ar.", 
     "gender": [
       "Ka", 
@@ -21920,7 +21920,7 @@
     "description": "1. Namazda kendisine uyulan kimse. 2. Önde bulunan, önayak olan kimse. 3. Halife. Devlet başkanı. 4. Mezhep kuran yüksek dereceli alim. 5. Hz. Ali neslinden gelen. 6. İmam-ı Âzam: Hanefiyye mezhebinin kurucusu."
   }, 
   {
-    "name": "imâr", 
+    "name": "imar", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -21936,7 +21936,7 @@
     "description": " Dini alanda yenilik yapan, dinin yönlendirdiği kimse. - Türk dil kuralı açısından \"d/t\" olarak kullanılır."
   }, 
   {
-    "name": "imdâd", 
+    "name": "imdad", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -21959,7 +21959,7 @@
     "description": " Hayal karşılığı olarak kullanılan ve Fransızca İmaj kelimesine benzetilerek uydurulan kelime."
   }, 
   {
-    "name": "imrân", 
+    "name": "imran", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -22098,7 +22098,7 @@
     "description": " İnci gibi parlak güzel."
   }, 
   {
-    "name": "incilâ", 
+    "name": "incila", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -22164,7 +22164,7 @@
     "description": " Allah'ın yapması, meydana getirmesi."
   }, 
   {
-    "name": "inşilâl", 
+    "name": "inşilal", 
     "type": "Ar.", 
     "gender": [
       "Ka", 
@@ -22277,7 +22277,7 @@
     "description": "1. Çağrısız gelen kimse. 2. Dalkavuk. 3. Eğreti. 4. Arzu, istek. 5. Pişmanlık. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "irmegân", 
+    "name": "irmegan", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -22466,7 +22466,7 @@
     "description": " M.Ö. 356-323 yıllan arasında yaşayan ve 20 yaşında hükümdar olan Makedonya kralı, Aristo'dan ders almıştır. Yunanistan, İran, Anadolu, Suriye, Mısır, Hindistan'ı istila eden hükümdara, Büyük İskender lakabı takılmıştır. 33 yaşında ölmüştür."
   }, 
   {
-    "name": "islâm", 
+    "name": "islam", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -22474,7 +22474,7 @@
     "description": "1. Muhammed(s.a.s)'e nazil olan ve kendisi tarafından insanlığa tebliğ edilen din, Allah'ın en son dini. 2. Allah'a teslim olma, onun emirlerine uyup, yasaklarından kaçınma. 3. İyi geçinme, barış içinde olma."
   }, 
   {
-    "name": "ismâh", 
+    "name": "ismah", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -22533,7 +22533,7 @@
     "description": " Esmerleşme, kara olma, kararma. - Erkek ve kadın adı olarak kullanılabilir."
   }, 
   {
-    "name": "isnâ", 
+    "name": "isna", 
     "type": "Ar.", 
     "gender": [
       "Ka", 
@@ -22550,7 +22550,7 @@
     "description": "1. Yürütme, geceleyin yürütme gönderme. 2. Hz. Peygamberin miraç gecesi. 3. Kur'an-ı Kerim'in 17. suresi."
   }, 
   {
-    "name": "isrâc", 
+    "name": "israc", 
     "type": "Ar.", 
     "gender": [
       "Ka", 
@@ -22573,7 +22573,7 @@
     "description": " Ya'kub peygamberin lakabı. Sonradan onun soyundan gelenler İsrailoğullan diye anılmışlardır. İsrailoğullan, Kur'an'da çok sık kullanılan bir isimdir."
   }, 
   {
-    "name": "istâre", 
+    "name": "istare", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -22794,7 +22794,7 @@
     "description": "1. Bakır pası. 2. Çöktaşı. 3. Deniz yeşili renk."
   }, 
   {
-    "name": "jerfî", 
+    "name": "jerfi", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -22977,7 +22977,7 @@
     "description": " (bkz. Kadri)."
   }, 
   {
-    "name": "kâfi", 
+    "name": "kafi", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -23021,7 +23021,7 @@
     "description": "1. Yiğit, cesur, (bahadır). 2. Hüküm sahibi, iş buyuran. 3. Fars mitolojisinde Rüstem'in yendiği kimse. - (bkz. Bahadır)."
   }, 
   {
-    "name": "kâhta", 
+    "name": "kahta", 
     "type": "Tür.", 
     "gender": [
       "Er"
@@ -23029,7 +23029,7 @@
     "description": " Fırat nehri kollarından birinin adı, Malatya'da aynı isimle yerleşim bölgesi vardır."
   }, 
   {
-    "name": "kâhya", 
+    "name": "kahya", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -23069,7 +23069,7 @@
     "description": "1. (bkz. Kaim). 2. Türklerde kağıt para manasına gelmektedir."
   }, 
   {
-    "name": "kâinat", 
+    "name": "kainat", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -23174,7 +23174,7 @@
     "description": " Mutlu, bahtiyar."
   }, 
   {
-    "name": "kâme", 
+    "name": "kame", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -23199,7 +23199,7 @@
     "description": "1. Ay. 2. Sadık hizmetkâr. 3. Kur'an-ı Kerim'in 54. suresi. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "kâmil", 
+    "name": "kamil", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -23207,7 +23207,7 @@
     "description": "1. Bütün tam noksansız, eksiksiz. 2. Kemale ermiş olgun. 3. Yaşını başını almış terbiyeli, görgülü. 4. Alim, bilgin, geniş bilgili. - (bkz. Kemal)."
   }, 
   {
-    "name": "kâmile", 
+    "name": "kamile", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -23223,7 +23223,7 @@
     "description": " İsteğine kavuşmuş olan."
   }, 
   {
-    "name": "kâmurân", 
+    "name": "kamuran", 
     "type": "Fars.", 
     "gender": [
       "Ka", 
@@ -23232,7 +23232,7 @@
     "description": "1. Kâm sürücü, süren, arzusuna isteğine kavuşmuş mutlu. 2. Arzusuna erişen, bahtiyar, mutlu. Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "kâmver", 
+    "name": "kamver", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -23486,7 +23486,7 @@
     "description": "1. Çiğdem. 2. Nergisgillerden baharda çok erken çiçek açan soğanlı bir bitki."
   }, 
   {
-    "name": "kârdide", 
+    "name": "kardide", 
     "type": "Fars.", 
     "gender": [
       "Ka", 
@@ -23605,7 +23605,7 @@
     "description": "1. Yemin etmek. 2. Bölmek."
   }, 
   {
-    "name": "kâsib", 
+    "name": "kasib", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -23613,7 +23613,7 @@
     "description": " Kesbeden, kazanan, kazanç sahibi."
   }, 
   {
-    "name": "kâsibe", 
+    "name": "kasibe", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -23629,7 +23629,7 @@
     "description": "1. Taksim eden, ayıran bölen. Kasım b. Muhammed (s.a.): Hz. Muhammed (s.a.s)'in oğlunun ismi. Küçük yaşta vefat etmiştir. 2. Kinci, ezici, ufaltıcı. 3. Yılın 11. ayı. 4. Yılın kış bölümü."
   }, 
   {
-    "name": "kâşif", 
+    "name": "kaşif", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -23637,7 +23637,7 @@
     "description": " Keşfeden, bulan, meydana çıkaran."
   }, 
   {
-    "name": "kâşife", 
+    "name": "kaşife", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -23969,7 +23969,7 @@
     "description": " (bkz. Kazan)."
   }, 
   {
-    "name": "kâzım", 
+    "name": "kazım", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -24127,7 +24127,7 @@
     "description": " (bkz. Kerem)."
   }, 
   {
-    "name": "kerenây", 
+    "name": "kerenay", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -24175,7 +24175,7 @@
     "description": " Açma, meydana çıkarma."
   }, 
   {
-    "name": "kevâr", 
+    "name": "kevar", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -24208,7 +24208,7 @@
     "description": "1. Maddi ve manevi çokluk, kalabalık nesil. 2. Cennette bir havuzun ırmağın adı. 3. Kur'an-ı Kerim'de en kısa sure."
   }, 
   {
-    "name": "keyân", 
+    "name": "keyan", 
     "type": "Tür.", 
     "gender": [
       "Er"
@@ -24242,7 +24242,7 @@
     "description": "1. Adil ve ulu padişah. 2. Keykavus'un torunu, Siyavuş'un oğlu olan meşhur hükümdar."
   }, 
   {
-    "name": "keykâvus", 
+    "name": "keykavus", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -25051,7 +25051,7 @@
     "description": " Dağ ırmağı. -Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "kûhsar", 
+    "name": "kuhsar", 
     "type": "Fars.", 
     "gender": [
       "Ka", 
@@ -25651,7 +25651,7 @@
     "description": "1. (bkz. Küşad). 2. Açık. 3. Ferah."
   }, 
   {
-    "name": "lâcerem", 
+    "name": "lacerem", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -25676,7 +25676,7 @@
     "description": " Açık yol."
   }, 
   {
-    "name": "lâhik", 
+    "name": "lahik", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -25692,7 +25692,7 @@
     "description": " (bkz. Lahik)."
   }, 
   {
-    "name": "lâhza", 
+    "name": "lahza", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -25716,7 +25716,7 @@
     "description": "1. Zambakgillerden, uzun yapraklı, güzel ve çeşitli renklerde çiçekli soğanlı bir bitki. 2. Eskiden sucuların boyunlarına asılan iki ucu lale gibi kıvrak demir halka, pranga. 3. Ağaçtan meyve koparmaya yarayan ucu çatallı sırık."
   }, 
   {
-    "name": "lâlefam", 
+    "name": "lalefam", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -25724,7 +25724,7 @@
     "description": " Lale renginde."
   }, 
   {
-    "name": "lâlegun", 
+    "name": "lalegun", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -25732,7 +25732,7 @@
     "description": " Lale renginde."
   }, 
   {
-    "name": "lâlegül", 
+    "name": "lalegül", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -25748,7 +25748,7 @@
     "description": "1. Lale yanaklı, yanağı lale gibi kırmızı olan. 2. Türk müziğinde mürekkeb bir makam."
   }, 
   {
-    "name": "lâleveş", 
+    "name": "laleveş", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -25756,7 +25756,7 @@
     "description": " Lale gibi."
   }, 
   {
-    "name": "lâlezar", 
+    "name": "lalezar", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -25764,7 +25764,7 @@
     "description": " Lalelik, lale yetişen yer, lale bahçesi."
   }, 
   {
-    "name": "lâmi", 
+    "name": "lami", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -25772,7 +25772,7 @@
     "description": " Parlayan, parıldayan parlak. - Lamii: 1472-1532 yılları arasında yaşayan Türk edebiyatında haklı bir ün kazanmış mutasavvıf ve sanatkar."
   }, 
   {
-    "name": "lâmia", 
+    "name": "lamia", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -25780,7 +25780,7 @@
     "description": " (bkz. Lami)."
   }, 
   {
-    "name": "lâmih", 
+    "name": "lamih", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -25788,7 +25788,7 @@
     "description": "1. Hz. Nuh'un erkek kardeşi. 2. Parlayan, parıldayan, parlak."
   }, 
   {
-    "name": "lâmiha", 
+    "name": "lamiha", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -25805,7 +25805,7 @@
     "description": " Nur saçarak parlayan. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "lânazir", 
+    "name": "lanazir", 
     "type": "Ar.", 
     "gender": [
       "Ka", 
@@ -25822,7 +25822,7 @@
     "description": " Yuva, ev, aşiyan."
   }, 
   {
-    "name": "lâsif", 
+    "name": "lasif", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -25830,7 +25830,7 @@
     "description": " Parlayan, parlayıcı."
   }, 
   {
-    "name": "lâtif", 
+    "name": "latif", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -25838,7 +25838,7 @@
     "description": "1. Allah'ın isimlerindendir. 2. Yumuşak, hoş, güzel, nazik. 3. Bütün inceliklere vakıf. -\"abd\" takısı alarak kullanılabilir. (Abdüllatif)."
   }, 
   {
-    "name": "lâtife", 
+    "name": "latife", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -25846,7 +25846,7 @@
     "description": " Güldürecek, tuhaf ve güzel söz ve hikaye şaka."
   }, 
   {
-    "name": "lâtime", 
+    "name": "latime", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -25862,7 +25862,7 @@
     "description": " Lavanta çiçeğinden elde edilen güzel koku."
   }, 
   {
-    "name": "lâyezal", 
+    "name": "layezal", 
     "type": "Ar.", 
     "gender": [
       "Ka", 
@@ -25871,7 +25871,7 @@
     "description": " Zevalsiz, bitimsiz. - Erkek ve kadın adı olarak kullanılabilir."
   }, 
   {
-    "name": "lâyih", 
+    "name": "layih", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -25879,7 +25879,7 @@
     "description": "1. Parlak, parlayan. 2. Aşikar, meydanda, hüveyda. 3. Hatıra gelen."
   }, 
   {
-    "name": "lâyiha", 
+    "name": "layiha", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -25887,7 +25887,7 @@
     "description": "1. Düşünülen bir şeyin yazı haline getirilmesi. 2. Tasarı."
   }, 
   {
-    "name": "lâyik", 
+    "name": "layik", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -25895,7 +25895,7 @@
     "description": " Yakışan, yakışıklı."
   }, 
   {
-    "name": "lâzım", 
+    "name": "lazım", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -25903,7 +25903,7 @@
     "description": " Gerekli şey. Gerekçe."
   }, 
   {
-    "name": "lâzıme", 
+    "name": "lazıme", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -25911,7 +25911,7 @@
     "description": " (bkz. Lazım)."
   }, 
   {
-    "name": "leâl", 
+    "name": "leal", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -25927,7 +25927,7 @@
     "description": " Akıl sahibi olma."
   }, 
   {
-    "name": "lebâbet", 
+    "name": "lebabet", 
     "type": "Ar.", 
     "gender": [
       "Ka", 
@@ -25994,7 +25994,7 @@
     "description": " Parıltılar."
   }, 
   {
-    "name": "lemehât", 
+    "name": "lemehat", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -26019,7 +26019,7 @@
     "description": "1. Zail olmaz, baki, kalıcı. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "lerzân", 
+    "name": "lerzan", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -26096,7 +26096,7 @@
     "description": " Geceler."
   }, 
   {
-    "name": "leyân", 
+    "name": "leyan", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -26110,13 +26110,13 @@
     "description": " Geceyi aydınlatan nur, ışık."
   }, 
   {
-    "name": "leylâ", 
+    "name": "leyla", 
     "type": "Ar.", 
     "gender": [], 
     "description": "1. Çok karanlık gece. 2. Arabi ayların son gecesi. 3. Leyla ile Mecnun hikayesinin kadın kahramanı."
   }, 
   {
-    "name": "leylâk", 
+    "name": "leylak", 
     "type": "Ar.", 
     "gender": [], 
     "description": "1. Zeytingillerden hoş kokulu salkım şeklinde mor ve beyaz renklerde çiçek açan bir bitki ve bitkinin çiçeği."
@@ -26154,7 +26154,7 @@
     "description": "1. Bayrak. 2. Mülki idarede kaza-vilayet arasında bir derece, sancak. 3. Tugay. 4. Tuğgeneral. 5. Livai saadet, Liva-i şerif. Hz. Muhammed (s.a.s)'in bayrağı Livaü'l-Hamd: Muhammed ümmetinin mahşer günü altında toplanacakları bayrak. Makam-ı Ahmedi."
   }, 
   {
-    "name": "liyâkat", 
+    "name": "liyakat", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -26586,7 +26586,7 @@
     "description": " (bkz. Makul)."
   }, 
   {
-    "name": "mâlik", 
+    "name": "malik", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -26691,7 +26691,7 @@
     "description": "1. Herkesin yapamadığı ustalık, herşeyde görülmeyen hususiyet, ustalıkla yapılmış olan şey. 2. Bilme, biliş. 3. Hoşa gitmeyen hareket. 4. Vasıta aracı, ikinci el. Marifetname: İbrahim Hakkı Bey'in divan kültürüne ait hazırladığı meşhur eseri."
   }, 
   {
-    "name": "mâriye", 
+    "name": "mariye", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -26715,7 +26715,7 @@
     "description": " (bkz. Maruf)."
   }, 
   {
-    "name": "mârut", 
+    "name": "marut", 
     "type": "Ar.", 
     "gender": [], 
     "description": " Arkadaşı \"Harut\" ile meşhur olan bir melek olup büyü ile uğraştıklarından dolayı kıyamete kadar kalmak üzere Babil'de bir kuyu içerisine hapsedilmişlerdir. - İsim olarak kullanılmaz."
@@ -27029,7 +27029,7 @@
     "description": " Davet olunmuş, çağırılmış, davetli. Hz. Peygamber (s.a.s)'in isimlerinden."
   }, 
   {
-    "name": "medâ", 
+    "name": "meda", 
     "type": "Ar.", 
     "gender": [
       "Ka", 
@@ -27328,7 +27328,7 @@
     "description": " Açılmış, açık. Bilinmez değil, keşfolunmuş."
   }, 
   {
-    "name": "melâ", 
+    "name": "mela", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -27344,7 +27344,7 @@
     "description": " Güzellik, yüz güzelliği."
   }, 
   {
-    "name": "meldâ", 
+    "name": "melda", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -27687,7 +27687,7 @@
     "description": "1. Dağın sivri tepesi. 2. İslam'dan evvel Arapların putu. -İsim olarak kullanılmaz."
   }, 
   {
-    "name": "merahân", 
+    "name": "merahan", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -29580,7 +29580,7 @@
     "description": "1. Muştu, sevinç haberi, büşra. 2. Hayırlı, sevinçli bir haber getirene verilen bahşiş."
   }, 
   {
-    "name": "müjgân", 
+    "name": "müjgan", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -29588,7 +29588,7 @@
     "description": " Kirpikler, kirpik."
   }, 
   {
-    "name": "mükâfat", 
+    "name": "mükafat", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -29797,7 +29797,7 @@
     "description": "1. Akıbetinin kötülüğünü söyleyerek korkutan. 2. Kafirleri ve münafıkları sapıklıklarından döndürmek için cehennem azabı ile korkutan. Rasulullah için kullanılmıştır. Birçok sahabe de bu ismi kullanmıştır."
   }, 
   {
-    "name": "mürdâz", 
+    "name": "mürdaz", 
     "type": "Fars.", 
     "gender": [], 
     "description": " İran güneş yılının 5. ayı."
@@ -30017,7 +30017,7 @@
     "description": " İştihar eden, şöhret bulan, meşhur. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "müteâl", 
+    "name": "müteal", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -30049,7 +30049,7 @@
     "description": " Sevgi, muhabbet, dostluk."
   }, 
   {
-    "name": "müvellâ", 
+    "name": "müvella", 
     "type": "Ar.", 
     "gender": [
       "Ka", 
@@ -30074,7 +30074,7 @@
     "description": " Zahir olan, arka çıkan, yardım eden, koruyan."
   }, 
   {
-    "name": "müzdâd", 
+    "name": "müzdad", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -30194,7 +30194,7 @@
     "description": " (bkz. Nadim)."
   }, 
   {
-    "name": "nâdir", 
+    "name": "nadir", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -30210,7 +30210,7 @@
     "description": "1. Nida eden, haykı­ran, çağıran. 2. Toplantı, meclis, (bkz. Nida)."
   }, 
   {
-    "name": "nâdire", 
+    "name": "nadire", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -30226,7 +30226,7 @@
     "description": "1. Bağırıp, çağıran, seslenen. 2. Toplantı, meclis."
   }, 
   {
-    "name": "nâferiz", 
+    "name": "naferiz", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -30240,7 +30240,7 @@
     "description": " Yararlı, kârlı. Şifalı, hayır ve fayda verici şeyler yaratan Allah. - Esmaü'l-Hüsna'dandır. \"Abd\" takısı alarak kullanılır."
   }, 
   {
-    "name": "nâfia", 
+    "name": "nafia", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -30280,7 +30280,7 @@
     "description": " (bkz. Nafiz)."
   }, 
   {
-    "name": "nâgehan", 
+    "name": "nagehan", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -30424,7 +30424,7 @@
     "description": " Gönül resmi, gönül süsü."
   }, 
   {
-    "name": "nâlân", 
+    "name": "nalan", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -30574,7 +30574,7 @@
     "description": " Nasihat eden, öğüt veren. - Nasıh-ı Emin: Hz. Nuh (a.s.)."
   }, 
   {
-    "name": "nâsıha", 
+    "name": "nasıha", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -30646,7 +30646,7 @@
     "description": " Bozulmaz şekilde tevbe edici."
   }, 
   {
-    "name": "nâşid", 
+    "name": "naşid", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -30654,7 +30654,7 @@
     "description": " Şiir okuyan, şiir söyleyen, şiir yazan."
   }, 
   {
-    "name": "nâşide", 
+    "name": "naşide", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -30686,7 +30686,7 @@
     "description": " (bkz. Natık)."
   }, 
   {
-    "name": "nâyab", 
+    "name": "nayab", 
     "type": "Fars.", 
     "gender": [
       "Ka", 
@@ -30751,7 +30751,7 @@
     "description": " Tanzim eden, düzenleyen. Sıra sıra, dizi dizi olan şey."
   }, 
   {
-    "name": "nâzıme", 
+    "name": "nazıme", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -30903,7 +30903,7 @@
     "description": " Dinin şanı ve şerefi. - Türk dil kuralına göre \"d/t\" olarak kullanılır."
   }, 
   {
-    "name": "nebâhat", 
+    "name": "nebahat", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -30911,7 +30911,7 @@
     "description": "1. Şan, şeref, onur. 2. Şan, şeref sahibi."
   }, 
   {
-    "name": "nebâlet", 
+    "name": "nebalet", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -30967,7 +30967,7 @@
     "description": " (bkz. Nabiye)."
   }, 
   {
-    "name": "necâbet", 
+    "name": "necabet", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -30983,7 +30983,7 @@
     "description": " Dine girip hidayete eren, kurtulan."
   }, 
   {
-    "name": "necâh", 
+    "name": "necah", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -31202,7 +31202,7 @@
     "description": " Pek hoş, çok hoşa giden, en güzel, çok beğenilen."
   }, 
   {
-    "name": "nehâr", 
+    "name": "nehar", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -31523,7 +31523,7 @@
     "description": " Az bulunan şeyler. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "nevâl", 
+    "name": "neval", 
     "type": "Ar.", 
     "gender": [
       "Ka", 
@@ -31825,7 +31825,7 @@
     "description": " Temizlik, paklık."
   }, 
   {
-    "name": "nezâhat", 
+    "name": "nezahat", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -31833,7 +31833,7 @@
     "description": " Temizlik, paklık. İncelik, rikkat."
   }, 
   {
-    "name": "nezâket", 
+    "name": "nezaket", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -31970,7 +31970,7 @@
     "description": " Soy, nesil, ne-seb. Tabiat, cibilliyet, (bkz. Nejad)."
   }, 
   {
-    "name": "nikân", 
+    "name": "nikan", 
     "type": "Fars.", 
     "gender": [
       "Ka", 
@@ -37712,7 +37712,7 @@
     "description": " Yararlı, kazançlı, karlı."
   }, 
   {
-    "name": "râci", 
+    "name": "raci", 
     "type": "Ar.", 
     "gender": [], 
     "description": "1. Rica eden, yalvaran, dileyen. 2. Dönen, geri gelen. 3. Nis-bet ve ilgisi bulunan, dokunan."
@@ -37790,7 +37790,7 @@
     "description": " Bırakan, salıveren."
   }, 
   {
-    "name": "râfi", 
+    "name": "rafi", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -38040,7 +38040,7 @@
     "description": " Namazda eğilen, rüku' eden. Kur'an-ı Kerim'de 4 yerde bu anlamda zikredilmiştir."
   }, 
   {
-    "name": "rakîb", 
+    "name": "rakib", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -38128,7 +38128,7 @@
     "description": " (bkz. Ramiz)."
   }, 
   {
-    "name": "rânâ", 
+    "name": "rana", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -38136,7 +38136,7 @@
     "description": "1. Güzel, hoş latif, parlak. Çok iyi, çok ala. 2. Arapça'da \"er'an\" kelimesinin mücnnesi olup \"ahmak, sünepe kadın\" demektir. Erkek adı olarak da kullanılır."
   }, 
   {
-    "name": "rasâfet", 
+    "name": "rasafet", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -38144,7 +38144,7 @@
     "description": " Sağlamlık, dayanıklılık."
   }, 
   {
-    "name": "rasânet", 
+    "name": "rasanet", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -38200,7 +38200,7 @@
     "description": " (bkz. Rasih)."
   }, 
   {
-    "name": "râsim", 
+    "name": "rasim", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -38208,7 +38208,7 @@
     "description": " Resim yapan."
   }, 
   {
-    "name": "râsime", 
+    "name": "rasime", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -38266,7 +38266,7 @@
     "description": " Doğruluk, gerçeklik, istikamet."
   }, 
   {
-    "name": "rastkâr", 
+    "name": "rastkar", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -38371,7 +38371,7 @@
     "description": " Han bayrağı, han sancağı."
   }, 
   {
-    "name": "râzî", 
+    "name": "razi", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -38630,7 +38630,7 @@
     "description": " Başkan, baş."
   }, 
   {
-    "name": "rekânet", 
+    "name": "rekanet", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -38694,7 +38694,7 @@
     "description": " (bkz. Remzi)."
   }, 
   {
-    "name": "renân", 
+    "name": "renan", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -38726,7 +38726,7 @@
     "description": " Nar renginde olan."
   }, 
   {
-    "name": "resâ", 
+    "name": "resa", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -39478,7 +39478,7 @@
     "description": " Görme, seyretme, bakma, görüş. Basiret, isabetli düşünme hassası. Kalp gözüyle manevi alemi görme, müşahade. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "rüzgâr", 
+    "name": "rüzgar", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -39535,7 +39535,7 @@
     "description": " Dinin güzelliği. - Türk dil kuralı açısından \"d/t\" olarak kullanılır."
   }, 
   {
-    "name": "sabâhat", 
+    "name": "sabahat", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -39608,7 +39608,7 @@
     "description": "1. Sabreden, tahammül eden, Katlanan sabırlı. 2. Acele etmeyen."
   }, 
   {
-    "name": "sâbire", 
+    "name": "sabire", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -39753,7 +39753,7 @@
     "description": " Bir gül kadar sade, temiz ve güzel."
   }, 
   {
-    "name": "sâderu", 
+    "name": "saderu", 
     "type": "a.f.i.", 
     "gender": [
       "Er"
@@ -39770,7 +39770,7 @@
     "description": "1. \"İki uğurlular\". 2. Venüs (Zühre) ile Jüpiter (Müşteri) gezegenleri. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "sâdık", 
+    "name": "sadık", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -39778,7 +39778,7 @@
     "description": " Doğru gerçek hakiki, yalan olmayan, sahte olmayan. Sadakatli, samimi, bağlı."
   }, 
   {
-    "name": "sâdıka", 
+    "name": "sadıka", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -39786,7 +39786,7 @@
     "description": " (bkz. Sadık)."
   }, 
   {
-    "name": "sâdır", 
+    "name": "sadır", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -40275,7 +40275,7 @@
     "description": " (bkz. Saik)."
   }, 
   {
-    "name": "sâim", 
+    "name": "saim", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -40283,7 +40283,7 @@
     "description": " Oruç tutan kimse, oruçlu."
   }, 
   {
-    "name": "sâime", 
+    "name": "saime", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -40307,7 +40307,7 @@
     "description": " (bkz. Sair)."
   }, 
   {
-    "name": "sâkıb", 
+    "name": "sakıb", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -40388,7 +40388,7 @@
     "description": " Baş, kumandan, başbuğ, önder."
   }, 
   {
-    "name": "salât", 
+    "name": "salat", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -40420,7 +40420,7 @@
     "description": "1. Yarar, yakışır, elverişli, uygun. Salahiyeti bulunan, yetkili. 2. Dinin emir ve yasaklarına uyan, iyi ahlak sahibi, muttaki."
   }, 
   {
-    "name": "sâliha", 
+    "name": "saliha", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -40531,7 +40531,7 @@
     "description": "1. Kılıç. 2. Oğuzların Üçok boyuna bağlı bir Türk kabilesi."
   }, 
   {
-    "name": "salvecâr", 
+    "name": "salvecar", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -40571,7 +40571,7 @@
     "description": "1. İşiten, duyan dinleyen. Dinleyici. 2. Yüksek, yüce."
   }, 
   {
-    "name": "sâmia", 
+    "name": "samia", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -40652,7 +40652,7 @@
     "description": " Dağarcık. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "sânahât", 
+    "name": "sanahat", 
     "type": "Ar.", 
     "gender": [
       "Ka", 
@@ -40758,7 +40758,7 @@
     "description": "1. Çam fıstığı. Çam fıstığı kozalağı. 2. Sevgilinin boyu-posu."
   }, 
   {
-    "name": "sânevi", 
+    "name": "sanevi", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -40847,7 +40847,7 @@
     "description": " Açıklık, ibarede açıklık. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "sarâmet", 
+    "name": "saramet", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -40855,7 +40855,7 @@
     "description": " Yiğitlik."
   }, 
   {
-    "name": "sârban", 
+    "name": "sarban", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -40936,7 +40936,7 @@
     "description": "1. Sarı renkli çiçek. 2. Artvin ve çevresinde oynanan bir tür halk oyunu."
   }, 
   {
-    "name": "sârif", 
+    "name": "sarif", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -40976,7 +40976,7 @@
     "description": " Keskin, kesici."
   }, 
   {
-    "name": "sârime", 
+    "name": "sarime", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -41251,7 +41251,7 @@
     "description": "1. Gölge. 2. Sahip çıkma, koruma, siyanet. Yardım. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "sâyebân", 
+    "name": "sayeban", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -41259,7 +41259,7 @@
     "description": "1. Sayvan, gölgelik. Büyük çadır. 2. Koruyan."
   }, 
   {
-    "name": "sâyedâr", 
+    "name": "sayedar", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -41267,7 +41267,7 @@
     "description": "1. Gölgeli, gölgesi olan, gölge eden. 2. Koruyan, sahip çıkan."
   }, 
   {
-    "name": "sâyezâr", 
+    "name": "sayezar", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -41432,7 +41432,7 @@
     "description": " Göllerde ve sazlık yerlerde yaşayan bir tatlısu balığı."
   }, 
   {
-    "name": "sâzkâr", 
+    "name": "sazkar", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -41545,7 +41545,7 @@
     "description": "Yumuşak huyluluk."
   }, 
   {
-    "name": "secâvend", 
+    "name": "secavend", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -41698,7 +41698,7 @@
     "description": "1. Seymen, yeniçeri ocağına bağlı asker. 2. Osmanlı saraylarında av köpeklerine bakan bakıcı."
   }, 
   {
-    "name": "sehâ", 
+    "name": "seha", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -41706,7 +41706,7 @@
     "description": " Sehavet, kerem, cömertlik."
   }, 
   {
-    "name": "sehâb", 
+    "name": "sehab", 
     "type": "Ar.", 
     "gender": [
       "Ka", 
@@ -41715,7 +41715,7 @@
     "description": "1. Bulut. 2. Karanlık. 3. Bulut gibi uçan böcekler. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "sehâbe", 
+    "name": "sehabe", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -42075,7 +42075,7 @@
     "description": " Cömertlik, el açıklığı, iyilikseverlik. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "semaî", 
+    "name": "semai", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -42083,7 +42083,7 @@
     "description": "1. Semaya, göğe havaya ait. 2. Gökten düşmüş. Allah tarafından olan, ilahi. 3. - İşitme esasına dayalı olarak öğrenilen, (bkz. Semavi)."
   }, 
   {
-    "name": "semân", 
+    "name": "seman", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -42091,7 +42091,7 @@
     "description": "1. Gökyüzü. 2. Güneş ayının 27. günü. 3. Bıldırcın."
   }, 
   {
-    "name": "semâne", 
+    "name": "semane", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -42107,7 +42107,7 @@
     "description": " Sekiz. (bkz. Seman)."
   }, 
   {
-    "name": "semâvât", 
+    "name": "semavat", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -42123,7 +42123,7 @@
     "description": " Semaya mensup, sema ile ilgili."
   }, 
   {
-    "name": "semâzen", 
+    "name": "semazen", 
     "type": "a.f.i.", 
     "gender": [
       "Er"
@@ -42301,7 +42301,7 @@
     "description": " Işıklı, parlak."
   }, 
   {
-    "name": "senâver", 
+    "name": "senaver", 
     "type": "a.f.i.", 
     "gender": [
       "Ka"
@@ -42323,7 +42323,7 @@
     "description": " Put. İsim olarak kullanılmaz, (bkz. Sanem)."
   }, 
   {
-    "name": "senevât", 
+    "name": "senevat", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -42403,7 +42403,7 @@
     "description": " Çöllük arazide, ışık kırılması sonucu görülen aldatıcı gerçek olmayan hayal, ılgım, salgım. - Türk dili açısından \"b/p\" olarak kullanılır."
   }, 
   {
-    "name": "serâçe", 
+    "name": "seraçe", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -42427,7 +42427,7 @@
     "description": " Işıklı, parlak."
   }, 
   {
-    "name": "serâser", 
+    "name": "seraser", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -43059,7 +43059,7 @@
     "description": " Çok sevilen, tek tutulan."
   }, 
   {
-    "name": "seyehât", 
+    "name": "seyehat", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -43124,7 +43124,7 @@
     "description": " Hanların başı, önderi."
   }, 
   {
-    "name": "seylâb", 
+    "name": "seylab", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -43150,7 +43150,7 @@
     "description": " Gezme, bakıp seyretme. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "seyyâl", 
+    "name": "seyyal", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -43639,7 +43639,7 @@
     "description": "1. Feda eden, veren. 2. Suya kanmış. 3. Taze, körpe."
   }, 
   {
-    "name": "sipâs", 
+    "name": "sipas", 
     "type": "Fars.", 
     "gender": [
       "Ka", 
@@ -43696,7 +43696,7 @@
     "description": " Başını yukarı kaldıran yükselten, benzerlerinden üstün olan. Aslı Serfıraz'dır."
   }, 
   {
-    "name": "sitâre", 
+    "name": "sitare", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -43704,7 +43704,7 @@
     "description": " Yıldız."
   }, 
   {
-    "name": "sitaregân", 
+    "name": "sitaregan", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -44147,7 +44147,7 @@
     "description": " Tasavvuf erbabı, mutasavvıf."
   }, 
   {
-    "name": "suğrâ", 
+    "name": "suğra", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -44163,7 +44163,7 @@
     "description": " Suyun hakimi, su kaynaklarının yönetimini elinde bulunduran."
   }, 
   {
-    "name": "suhanserâ", 
+    "name": "suhansera", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -44211,7 +44211,7 @@
     "description": " (bkz. Sulbi)."
   }, 
   {
-    "name": "sulehâ", 
+    "name": "suleha", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -44413,7 +44413,7 @@
     "description": "1. Türk musikisinin şed makamlarından biri. 2. Gönül ateşi, gönül sıcaklığı."
   }, 
   {
-    "name": "suznâk", 
+    "name": "suznak", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -44421,7 +44421,7 @@
     "description": "1. Yakan, yakıcı. Dokunaklı. 2. Türk müziğinde basit bir makam."
   }, 
   {
-    "name": "sûzülay", 
+    "name": "suzülay", 
     "type": "Tür.", 
     "gender": [
       "Ka"
@@ -44798,7 +44798,7 @@
     "description": " Din topluluğu, cemaati. - Türk dil kuralına göre \"d/t\" olarak kullanılır."
   }, 
   {
-    "name": "şâdâb", 
+    "name": "şadab", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -44806,7 +44806,7 @@
     "description": " Suya kanmış, sulu, taze."
   }, 
   {
-    "name": "şâdân", 
+    "name": "şadan", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -44830,7 +44830,7 @@
     "description": "1. Memnunluk, sevinç, gönül ferahlığı. 2. Güzel sesle şarkı okuyan, şiir söyleyen."
   }, 
   {
-    "name": "şadkâm", 
+    "name": "şadkam", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -44838,7 +44838,7 @@
     "description": " Çok sevinçli."
   }, 
   {
-    "name": "şâdnâk", 
+    "name": "şadnak", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -44936,7 +44936,7 @@
     "description": " Şişmanlık, topluluk."
   }, 
   {
-    "name": "şâhân", 
+    "name": "şahan", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -45242,7 +45242,7 @@
     "description": " Saygıdeğer kimse. - Türk dil kuralına göre \"d/t\" olarak kullanılır."
   }, 
   {
-    "name": "şâhzâde", 
+    "name": "şahzade", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -45405,7 +45405,7 @@
     "description": "1. İri ve iyi cins inci. 2. Hükümdara yakışan, hükümdara uygun."
   }, 
   {
-    "name": "şapûr", 
+    "name": "şapur", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -45437,7 +45437,7 @@
     "description": " Doğup parlayan, parlak."
   }, 
   {
-    "name": "şâti", 
+    "name": "şati", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -45461,7 +45461,7 @@
     "description": " Uygun, yakışır, münasip, layık."
   }, 
   {
-    "name": "şâyeste", 
+    "name": "şayeste", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -45469,7 +45469,7 @@
     "description": " Layık uygun, münasip."
   }, 
   {
-    "name": "şâygân", 
+    "name": "şaygan", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -45736,7 +45736,7 @@
     "description": "1. Şahların şahı, en büyük hükümdar. 1. Daha çok unvan olarak verilir."
   }, 
   {
-    "name": "şehlâ", 
+    "name": "şehla", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -45867,7 +45867,7 @@
     "description": " Dayanıklılık, dayanma, karşı koyma."
   }, 
   {
-    "name": "şekûr", 
+    "name": "şekur", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -45875,7 +45875,7 @@
     "description": " Şükreden, şükredici. Allah'ın isimlerinden, (bkz. Abdüşşekûr)."
   }, 
   {
-    "name": "şekûre", 
+    "name": "şekure", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -46386,7 +46386,7 @@
     "description": " Kokulu şeylerin kokusu."
   }, 
   {
-    "name": "şezerât", 
+    "name": "şezerat", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -47758,7 +47758,7 @@
     "description": " Hekimlikte kullanılan ıtırlı bir bitki. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "târık", 
+    "name": "tarık", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -50852,7 +50852,7 @@
     "description": " Oluşan, ortaya çıkan, türeyen. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "türkân", 
+    "name": "türkan", 
     "type": "Tür.", 
     "gender": [
       "Ka"
@@ -50965,7 +50965,7 @@
     "description": " Çalışan, etkin. -Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "tüvân", 
+    "name": "tüvan", 
     "type": "Fars.", 
     "gender": [
       "Er"
@@ -53711,7 +53711,7 @@
     "description": " Ulaşan, isteğine kavuşan. - Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "vâsıf", 
+    "name": "vasıf", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -54040,7 +54040,7 @@
     "description": " Saklanılması, korunması için birine ya da bir yere bırakılan emanet."
   }, 
   {
-    "name": "vedîatullah", 
+    "name": "vediatullah", 
     "type": "Ar.", 
     "gender": [], 
     "description": " Allah'ın emaneti, dini. Kadınlar da Allah'ın emaneti olarak nitelenmişlerdir."
@@ -54168,7 +54168,7 @@
     "description": " (bkz. Vehbi)."
   }, 
   {
-    "name": "vehhâb", 
+    "name": "vehhab", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -54334,7 +54334,7 @@
     "description": " Merkür'den sonra, Güneş'e en yakın olan gezegen. Çobanyıldızı."
   }, 
   {
-    "name": "verâ", 
+    "name": "vera", 
     "type": "Ar.", 
     "gender": [
       "Ka"
@@ -55709,7 +55709,7 @@
     "description": " Rüzgar, yel, esinti."
   }, 
   {
-    "name": "yeldâ", 
+    "name": "yelda", 
     "type": "Fars.", 
     "gender": [
       "Ka"
@@ -55891,7 +55891,7 @@
     "description": "1. Kolaylık. 2. Zenginlik."
   }, 
   {
-    "name": "yesâri", 
+    "name": "yesari", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -56597,7 +56597,7 @@
     "description": "1. Amaca ulaşma, basan. 2. Düşmanı yenme, üstün gelme, utku. Erkek ve kadın adı olarak kullanılır."
   }, 
   {
-    "name": "zâfir", 
+    "name": "zafir", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -56613,7 +56613,7 @@
     "description": " Bir tür doğan ' kuşu."
   }, 
   {
-    "name": "zâhid", 
+    "name": "zahid", 
     "type": "Ar.", 
     "gender": [
       "Er"
@@ -57569,7 +57569,7 @@
     "description": " Dağılmış, saçılmış saç."
   }, 
   {
-    "name": "zülfikâr", 
+    "name": "zülfikar", 
     "type": "Ar.", 
     "gender": [
       "Er"

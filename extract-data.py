@@ -19,6 +19,7 @@ def LoadData(filename):
                 sRes = reFormat.match(ln)
                 name, nameTp, nameOpts, desc = sRes.groups()
                 name = unicode(icu.UnicodeString(name).toLower(TurLocale)).strip()
+                name = name.replace(u"â", u"a").replace(u"û", u"u").replace(u"î", "i")
                 nameOpts = set(opt.strip() for opt in reOptsDelim.split(nameOpts) if opt.strip())
                 if reUnisex.search(desc):
                     nameOpts.add(u'Er')
@@ -33,6 +34,6 @@ def LoadData(filename):
 
 if __name__ == "__main__":
     data = list(LoadData("data/turk-names.txt"))
-    with OpenFile("data/turk-names.js.gz", "w") as names_prn:
+    with OpenFile("data/turk-names.js", "w") as names_prn:
         names_prn.write(json.dumps(data, indent=2, ensure_ascii=False).encode("utf-8"))
 
